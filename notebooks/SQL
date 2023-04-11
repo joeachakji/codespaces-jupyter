@@ -1,10 +1,10 @@
-#install connector api using the command below.sdf
+#install connector api using the command below.sdfjkkkkkkkk
 !pip install mysql-connector-python
 
-# Import the MySQL Connector/Python
+# Import the MySQL Connector/Python kkjkjlkj
 import mysql.connector as connector
 
-# Establish connection between Python and MySQL database via connector API
+# Establish connection between Python and MySQL database via connector API lkj
 connection=connector.connect(
                              user="root", # use your own
                              password="", # use your own
