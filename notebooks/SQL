@@ -1,4 +1,4 @@
-#install connector api using the command below.
+#install connector api using the command below.sdf
 !pip install mysql-connector-python
 
 # Import the MySQL Connector/Python
